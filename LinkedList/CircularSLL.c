@@ -1,4 +1,4 @@
-//Circular Single Linked List C Program
+//Circular Single Linked List C Program using DMA
 
 #include <stdio.h>
 #include <stdlib.h>
