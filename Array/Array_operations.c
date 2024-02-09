@@ -1,4 +1,4 @@
-//Array operations C program using DMA
+//Array operations C program using Dynamic Memory Allocation
 
 #include<stdio.h>
 #include<stdlib.h>
