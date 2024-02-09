@@ -1,4 +1,4 @@
-//Prefix Evaluation
+//Prefix Evaluation.
 
 #include <stdio.h>
 #include <ctype.h>
