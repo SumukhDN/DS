@@ -1,4 +1,4 @@
-//Circular Queue C program with DMA
+//Circular Queue C program with Dynamic Memory Allocation
 
 #include <stdio.h>
 #include <stdlib.h>
