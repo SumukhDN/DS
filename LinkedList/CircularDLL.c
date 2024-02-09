@@ -1,4 +1,4 @@
-//Circular Double Linked List C Program
+//Circular Double Linked List C Program using DMA
 
 #include <stdio.h>
 #include<stdlib.h>
