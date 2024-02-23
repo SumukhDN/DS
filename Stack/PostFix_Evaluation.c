@@ -1,4 +1,4 @@
-//PostFix Evaluation
+//PostFix Evaluation C program
 
 #include<stdio.h>
 int stack[20];
