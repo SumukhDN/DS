@@ -1,4 +1,4 @@
-//Infix Expression to Post Expression Conversion
+//Infix Expression to Post Expression Conversion.
 
 #include <stdio.h>
 #include <ctype.h>
