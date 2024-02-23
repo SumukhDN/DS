@@ -1,4 +1,4 @@
-//Time C Program.
+//Time C Program..
 
 #include <stdio.h>
 #include <stdlib.h>
