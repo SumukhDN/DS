@@ -1,4 +1,4 @@
-//Student Details C program using Struct.
+//Student Details C program using Struct
 
 #include <stdio.h>
 #include <stdlib.h>
