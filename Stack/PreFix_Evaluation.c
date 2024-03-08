@@ -1,4 +1,4 @@
-//Prefix Evaluation C program.
+//Prefix Evaluation C program
 
 #include <stdio.h>
 #include <ctype.h>
