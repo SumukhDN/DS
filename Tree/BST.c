@@ -1,4 +1,4 @@
-//Binary search tree operations.
+//Binary search tree operations
 
 #include <stdio.h>
 #include <stdlib.h>
