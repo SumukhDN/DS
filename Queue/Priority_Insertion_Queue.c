@@ -1,4 +1,4 @@
-//Priority Insertion Queue C program with Dynamic Memory Allocation.
+//Priority Insertion Queue C program with Dynamic Memory Allocation
 
 #include <stdio.h>
 #include <stdlib.h>
