@@ -1,4 +1,4 @@
-//Double Ended Queue C program with Dynamic Memory Allocation
+//Double Ended Queue C program with Dynamic Memory Allocation.
 
 #include <stdio.h>
 #include <stdlib.h>
